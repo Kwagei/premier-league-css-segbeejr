@@ -1,0 +1,76 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .container {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: white;
+    width: 100%;
+  }
+
+
+  .head {
+    width: 100%;
+    
+  }
+  
+  table .list {
+    width: 20rem;
+    
+  }
+  
+  .head td {
+    text-align: center;
+    height: 4rem;
+    
+  }
+  
+  .head td.teams {
+    text-align: left;
+    display: flex;
+    align-items: center;
+  }
+  
+  .body img {
+    width: 25px;
+    height: 25px;
+  }
+  .class {
+    background-color: lawngreen;
+    color: white;
+    padding: 10px;
+    border-radius: 50%;
+  }
+  
+  .room {
+    background-color: grey;
+    color: white;
+    padding: 10px;
+    border-radius: 50%;
+  }
+  .lose {
+    background-color: #d81920;
+    color: white;
+    padding: 10px;
+    border-radius: 50%;
+  }
+  
+  table select {
+    border: none;
+    padding: 10px;
+    background-color: white;
+  }
+  .head1 {
+    background-color: #e6efe5;
+  }
+  .head1 th {
+    border-top: 1px solid;
+    height: 20px;
+  }
+  
+  .teams img {
+    margin-right: 25px;
+  } */
